@@ -57,8 +57,39 @@ df.isnull().sum()
 ```
 
 ##🧩 Libraries Used
-```
+``` code
 import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+```
+
+##💡 Key Insights
+```
+1. Month-to-month contracts have the highest churn rate.
+2. Customers using electronic check payment churn more frequently.
+3. Fiber optic internet users have higher churn than DSL users.
+4. Senior citizens show higher churn percentage.
+5. Customers with shorter tenure and higher monthly charges tend to churn more.
+```
+
+##🧰 Tools & Technologies
+```
+Python – Programming language
+Pandas – Data manipulation
+NumPy – Numerical operations
+Matplotlib & Seaborn – Data visualization
+Jupyter Notebook – Interactive analysis
+```
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/roshansaini18/S.O-Bank/blob/main/LICENSE) file for details.
+
+---
+
+<div align="center">
+  <h3>Made with ❤️ by ROSHAN SAINI</h3>
+  <a href="https://github.com/roshansaini18">GitHub</a> | <a href="https://www.linkedin.com/in/roshan-saini-6a2000260/">LinkedIn</a>
+</div>
